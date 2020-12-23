@@ -4,8 +4,8 @@ Unbeatable Tic-tac-toe game using React, Create-react-app and Minimax algorithm 
 
 ## Links
 
-  * Demo: [Tic-tac-toe](https://about.phamvanlam.com/tic-tac-toe)
+  * Demo: [Tic-tac-toe](https://tic-tac-toe-genius.herokuapp.com/)
 
 ## Visit me
 
-  * Twitter: [Complete JavaScript](https://twitter.com/somorene18)
+  * Twitter: [Endeavor](https://twitter.com/somorene18)
